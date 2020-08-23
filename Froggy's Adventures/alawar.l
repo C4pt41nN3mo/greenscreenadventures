@@ -13,7 +13,7 @@ function init()
 
 
 --   static_text("Published by",0,0,14,"alaw1",0.75,0.75)
---   static_text("Alawar Entertainment, Inc.",0,0,-14,"alaw2",0.75,0.75)
+--   static_text("Baldcoin Entertainment, Inc.",0,0,-14,"alaw2",0.75,0.75)
 
    add_control("alawl","intro_image",0,0)  
 
@@ -21,7 +21,7 @@ function init()
    set_ctrl_prop("alaw1",50,"Published by")
 
    add_control("alaw2","intro_text",0,-20)
-   set_ctrl_prop("alaw2",50,"Alawar Entertainment, Inc.")
+   set_ctrl_prop("alaw2",50,"Baldcoin Entertainment, Inc.")
 
 
    set_ctrl_prop("alawl",1,"logo_l1")
@@ -37,10 +37,10 @@ function init()
 
 
    add_control("butt1","intro_text",0,15)
-   set_ctrl_prop("butt1",50,"Developed by")
+   set_ctrl_prop("butt1",50,"In association with")
 
    add_control("butt2","intro_text",0,-15)
-   set_ctrl_prop("butt2",50,"Butterfly iSoft")
+   set_ctrl_prop("butt2",50,"Dick Dastardly Productions")
 
 
 
