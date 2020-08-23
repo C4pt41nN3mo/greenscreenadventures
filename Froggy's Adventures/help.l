@@ -149,32 +149,21 @@ function stage1()
 
   DeleteAllStageControls()   
 
-  text = [[    Вы управляете лягушонком по имени
- Фрогги. Ваша задача спасти ромашки,
- грибки, камушки, и кристаллы от
- разрушения монстрами. На пути
- Фрогги будут встречатся много
- разных монстров. Огромные, сердитые
- пни Боссы будут старатся убить
- маленькую лягушку.
-     Но Фрогги не должен падать духом,
- и умело обхитрив монстров - спасти
- растительность волшебного леса от
- невежественых хулиганов.]]
+  text = [[    пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ,
+ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅ пїЅпїЅпїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
+     пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ,
+ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅпїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.]]
 
 
-  text = [[    Help Froggy collect all of the
- flowers, mushrooms, pebbles and
- crystals on each level while
- avoiding the dangerous monsters
- invading the magical forest.
- During his journey, Froggy will 
- face many different enemies and
- fight enormous bosses that look
- like angry tree stumps.  He must
- be courageous, though, and protect
- the enchanted woodland from the
- dreadful creatures.]]
+  text = [[    I hate the sound of tape guys I'm sorry this is like turning on an oven for me, I don't like ovens. I hate turning on an oven it likes freaks me out I don't like it there's a box in your house that heats up to like 500 degrees I don't like it, it's weird and it's gas.]]
 
   tittle = [[Help]]
 
@@ -206,23 +195,23 @@ function stage2()
   text2_pos = 3 + sh
   text3_pos = -10 + sh
 
-  left_right = [[-для перемещения влево и
- вправо используйте стрелки
- на клавиатуре.]] 
+  left_right = [[-пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.]] 
 
   left_right = [[ To move to the right or
  to the left, use the Right
  and Left arrows.]] 
 
 
-  jump = [[-для того чтобы подпрыгнуть
- нажмите стрелку ВВЕРХ.]]
+  jump = [[-пїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ.]]
 
   jump = [[ To jump, press the Up arrow.]]
 
 
-  attack = [[-чтобы кинуть пузырь нажмите
- левый "пробел".]]
+  attack = [[-пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+ пїЅпїЅпїЅпїЅпїЅ "пїЅпїЅпїЅпїЅпїЅпїЅ".]]
 
 
   attack = [[To throw a bubble, press
@@ -278,18 +267,18 @@ function stage3()
   text5_pos = text1_pos-A*4
 
 
-  text1 = [[- Monster freezer. This bonus
- freezes all of the monsters for
+  text1 = [[- Enemy freezer. This bonus
+ freezes all of the Enemies for
  a short period of time.]] 
 
   text2 = [[- Speed-up. This bonus
- increases Froggy's speed.]] 
+ increases Jerma's speed.]] 
 
   text3 = [[- Life+1. This bonus gives
- Froggy one more life.]] 
+ Jerma one more life.]] 
 
-  text4 = [[- Monster cleaner. This
- bonus makes all of the monsters
+  text4 = [[- Enemy cleaner. This
+ bonus makes all of the Enemies
  disappear.]]
 
 
@@ -334,11 +323,11 @@ function stage4()
 
 
   text1 = [[- Thunderstorm. Lightning bolts
- will strike the monsters on its way.]] 
+ will strike the Enemies on its way.]] 
 
 
   text2 = [[- A rocket is an effective weapon
- to fight with monsters. To
+ to fight with Enemies. To
  launch it, you should pick it
  up and the rocket will hit the
  target automatically.]] 
@@ -414,7 +403,7 @@ function stage6()
 
   DeleteAllStageControls()
 
-  tittle = [[Monsters]]
+  tittle = [[Enemies]]
 
   A = 9
   text_posx = 0
@@ -425,23 +414,23 @@ function stage6()
   text4_pos = text1_pos-A*3
   text5_pos = text1_pos-A*4
 
-  text1 = [[-Green monsters, who eat
+  text1 = [[-Green Enemies, who eat
  the vegetation of the woodland,
  are quick runners!]] 
 
-  text2 = [[-Thorny monsters can roll on
- Froggy. It would be better to 
+  text2 = [[-Thorny Enemies can roll on
+ Jerma. It would be better to 
  keep away from them. ]]
 
-  text3 = [[-Brown monsters can spit bombs!
+  text3 = [[-Brown Enemies can spit bombs!
  Be careful!]]
 
-  text4 = [[-Coal monsters can't be enclosed
+  text4 = [[-Coal Enemies can't be enclosed
  in bubbles to trap them. They can't
  jump from platform to platform..]]
 
-  text5 = [[-Armored monsters can roll on
- Froggy and jump off the platforms.]] 
+  text5 = [[-Armored Enemies can roll on
+ Jerma and jump off the platforms.]] 
 
 
 
@@ -474,7 +463,7 @@ function stage7()
 
   DeleteAllStageControls()
 
-  tittle = [[Monsters]]
+  tittle = [[Enemies]]
 
   A = 8.5
   text_posx = 0
@@ -485,8 +474,8 @@ function stage7()
   text4_pos = text1_pos-A*3
   text5_pos = text1_pos-A*4
 
-  text1 = [[-Armored monsters can roll on
- Froggy and jump off the platforms.]] 
+  text1 = [[-Armored Enemies can roll on
+ Jerma and jump off the platforms.]] 
 
 
 
@@ -522,12 +511,12 @@ function stage8()
   text5_pos = text1_pos-A*4
   text6_pos = text1_pos-A*5
 
-  text1 = [[Developer: Butterfly iSoft Team]] 
-  text2 = [[Published by Alawar Entertainment]] 
-  text3 = [[Arts and Graphics: Sergey Korytcev]]
-  text4 = [[Level Design: Vladimir Karlugin.]]
-  text5 = [[Mousic and Sound: Konstantin Elgazin]]
-  text6 = [[Programming: Dmitry Danchenko.]] 
+  text1 = [[Developer: Baldcoin Entertainment]] 
+  text2 = [[Published by Dick Dastardly Productions]] 
+  text3 = [[Texture Replacement: C4pt41nN3m0, Brandon1234, Modus Pwnens]]
+  text4 = [[Technicians: Coda, C4pt41nN3m0]]
+  text5 = [[Audio Replacement: Brandon1234, C4pt41nN3m0, WhimsMoose]]
+  text6 = [[Complete list of contributors: Brandon1234, C4pt41nN3m0, Modus Pwens, Coda, WhimsMoose]] 
 
 
   static_text(tittle,4,0,26,"text1")
