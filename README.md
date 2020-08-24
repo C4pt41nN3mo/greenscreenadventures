@@ -1,9 +1,10 @@
 # Green Screen Adventures
 A version of the game Froggy's Adventures (AKA SUPERFROG) that replaces the assets with our local funnyman, Jerma.
 
-To play, just clone the repository and run "engine.exe".
+To play, just clone the repository (click "Code" and select "Download as ZIP"), extract, and run "engine.exe".
 
-We have an active speedrunning community! Look us up on Speedrun.com and join the discord!
+We have a page on Speedrun.com and a discord! 
+https://www.speedrun.com/froggy_adventures https://discord.com/invite/mbr7rBn
 
 
 
