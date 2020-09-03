@@ -12,7 +12,7 @@ CREDITS:
 
 C4pt41N3m0: Player and enemy texture replacements, music, and unearthing the game in the first place.
 
-Uwe Boll's Far Cry: Concept, audio replacements, text replacement.
+Uwe Boll's Far Cry: Concept, audio replacements, texture replacement, and text replacement.
 
 WhimsMoose: Audio replacement, concepts
 
